@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Document\\Cours\\AP\\TP2\\gsbV3.0\\Projet C#2\\GSB\\GSB\\GSB.csproj": {}
+  },
+  "projects": {
+    "E:\\Document\\Cours\\AP\\TP2\\gsbV3.0\\Projet C#2\\GSB\\GSB\\GSB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Document\\Cours\\AP\\TP2\\gsbV3.0\\Projet C#2\\GSB\\GSB\\GSB.csproj",
+        "projectName": "GSB",
+        "projectPath": "E:\\Document\\Cours\\AP\\TP2\\gsbV3.0\\Projet C#2\\GSB\\GSB\\GSB.csproj",
+        "packagesPath": "C:\\Users\\theor\\.nuget\\packages\\",
+        "outputPath": "E:\\Document\\Cours\\AP\\TP2\\gsbV3.0\\Projet C#2\\GSB\\GSB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\theor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Document\\Cours\\AP\\TP2\\gsbV3.0\\Projet C#2\\GSB\\MesClasses\\MesClasses.csproj": {
+                "projectPath": "E:\\Document\\Cours\\AP\\TP2\\gsbV3.0\\Projet C#2\\GSB\\MesClasses\\MesClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Document\\Cours\\AP\\TP2\\gsbV3.0\\Projet C#2\\GSB\\MesClasses\\MesClasses.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Document\\Cours\\AP\\TP2\\gsbV3.0\\Projet C#2\\GSB\\MesClasses\\MesClasses.csproj",
+        "projectName": "MesClasses",
+        "projectPath": "E:\\Document\\Cours\\AP\\TP2\\gsbV3.0\\Projet C#2\\GSB\\MesClasses\\MesClasses.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

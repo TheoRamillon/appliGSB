@@ -1,0 +1,138 @@
+C:\Users\cleme\Desktop\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csprojAssemblyReference.cache
+C:\Users\cleme\Desktop\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.CoreCompileInputs.cache
+C:\Users\cleme\Desktop\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.dll
+C:\Users\cleme\Desktop\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.pdb
+C:\Users\cleme\Desktop\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.dll
+C:\Users\cleme\Desktop\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.pdb
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.pdb
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.AssemblyReference.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.CoreCompileInputs.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.pdb
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.pdb
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csprojAssemblyReference.cache
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.CoreCompileInputs.cache
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.pdb
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.pdb
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.AssemblyReference.cache
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.CoreCompileInputs.cache
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.pdb
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.dll.config
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\BouncyCastle.Crypto.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\Google.Protobuf.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Hash.xxHash.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\MySql.Data.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\System.Buffers.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\System.Memory.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\System.Numerics.Vectors.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\Ubiety.Dns.Core.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\ZstdNet.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\Google.Protobuf.pdb
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\Google.Protobuf.xml
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.xml
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Hash.xxHash.xml
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\MySql.Data.xml
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\System.Buffers.xml
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\System.Memory.xml
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\System.Numerics.Vectors.xml
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.CopyComplete
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.AssemblyReference.cache
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.CoreCompileInputs.cache
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.pdb
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.dll.config
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.pdb
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\BouncyCastle.Crypto.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\Google.Protobuf.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Hash.xxHash.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\MySql.Data.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\System.Buffers.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\System.Memory.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\System.Numerics.Vectors.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\Ubiety.Dns.Core.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\ZstdNet.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\Google.Protobuf.pdb
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\Google.Protobuf.xml
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.xml
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Hash.xxHash.xml
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\MySql.Data.xml
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\System.Buffers.xml
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\System.Memory.xml
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\System.Numerics.Vectors.xml
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.CopyComplete
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.dll.config
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.pdb
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\BouncyCastle.Crypto.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\Google.Protobuf.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Hash.xxHash.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\MySql.Data.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\System.Buffers.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\System.Memory.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\System.Numerics.Vectors.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\Ubiety.Dns.Core.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\ZstdNet.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\Google.Protobuf.pdb
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\Google.Protobuf.xml
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.xml
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Hash.xxHash.xml
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\MySql.Data.xml
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\System.Buffers.xml
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\System.Memory.xml
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\System.Numerics.Vectors.xml
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.AssemblyReference.cache
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.CoreCompileInputs.cache
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.CopyComplete
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.pdb
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.dll.config
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\MesClasses.pdb
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\BouncyCastle.Crypto.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\Google.Protobuf.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Hash.xxHash.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\MySql.Data.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\System.Buffers.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\System.Memory.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\System.Numerics.Vectors.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\Ubiety.Dns.Core.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\ZstdNet.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\Google.Protobuf.pdb
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\Google.Protobuf.xml
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.xml
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\K4os.Hash.xxHash.xml
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\MySql.Data.xml
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\System.Buffers.xml
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\System.Memory.xml
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\System.Numerics.Vectors.xml
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.AssemblyReference.cache
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.CoreCompileInputs.cache
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.CopyComplete
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.pdb

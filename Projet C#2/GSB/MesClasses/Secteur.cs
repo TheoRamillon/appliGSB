@@ -1,0 +1,84 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MesClasses
+{
+    public class Secteur
+    {
+        private string nomSecteur;
+        private int numSecteur;
+        private Region  RegionDuSecteur;
+        
+        public Secteur()
+        {
+
+        }
+
+        public Secteur(string nomSecteur, Region uneR)
+        {
+            this.nomSecteur = nomSecteur;
+            this.RegionDuSecteur = uneR;
+        }
+
+        public Secteur(string nomSecteur, int numSecteur)
+        {
+            
+            this.nomSecteur = nomSecteur;
+            this.numSecteur = numSecteur;
+        }
+            
+
+        public Secteur(int numSecteur, string nomSecteur, Region uneR)
+        {
+
+            this.nomSecteur = nomSecteur;
+            this.numSecteur = numSecteur;
+            this.RegionDuSecteur = uneR;
+        }
+        public int getnumSecteur()
+        {
+            return this.numSecteur;
+        }
+        public string getnomSecteur()
+        {
+            return this.nomSecteur;
+        }
+
+        public DirecteurRegional getDirecteurSecteur()
+        {
+            return this.RegionDuSecteur.GetDirecteur();
+        }
+
+        public int getNumRegion()
+        {
+            return this.RegionDuSecteur.getNumRegion();
+        }
+
+        public void setnumSecteur(int numSecteur)
+        {
+            this.numSecteur = numSecteur;
+        }
+        public void setnomSecteur(string nomSecteur)
+        {
+            this.nomSecteur = nomSecteur;
+        }
+
+        public void setRegionSecteur(Region uneRegion)
+        {
+            this.RegionDuSecteur = uneRegion;
+        }
+
+        public string DonneInfoSecteur()
+        {
+            
+           String contenuDesAttribut ="Nom Du Secteur : " + this.nomSecteur+ " " + "\n";
+            contenuDesAttribut = contenuDesAttribut + "Numéro Du Secteur : " + this.numSecteur + " " + "\n";
+            
+            return contenuDesAttribut;
+        }
+
+    }
+}

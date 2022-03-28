@@ -1,0 +1,416 @@
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.exe
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.deps.json
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.json
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.dev.json
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.dll
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.pdb
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.AssemblyReference.cache
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Accueil.resources
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Properties.Resources.resources
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.GenerateResource.cache
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfoInputs.cache
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfo.cs
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CoreCompileInputs.cache
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.dll
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.pdb
+C:\Users\Fruin\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.genruntimeconfig.cache
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.exe
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.deps.json
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.json
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.dev.json
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.dll
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.pdb
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csprojAssemblyReference.cache
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Accueil.resources
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Properties.Resources.resources
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.GenerateResource.cache
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfoInputs.cache
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfo.cs
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CoreCompileInputs.cache
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CopyComplete
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.dll
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.pdb
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.genruntimeconfig.cache
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll
+C:\Users\cleme\Desktop\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.pdb
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.exe
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.deps.json
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.json
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.dev.json
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.pdb
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.pdb
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.AssemblyReference.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Accueil.resources
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Properties.Resources.resources
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.GenerateResource.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfoInputs.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfo.cs
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CoreCompileInputs.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.pdb
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.genruntimeconfig.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.menu.resources
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdirecteur.resources
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCResponsable.resources
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCVisiteur.resources
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.exe
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.deps.json
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.json
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.dev.json
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.dll
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.pdb
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.pdb
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.AssemblyReference.cache
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Accueil.resources
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdirecteur.resources
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCResponsable.resources
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCVisiteur.resources
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.menu.resources
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Properties.Resources.resources
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.GenerateResource.cache
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfoInputs.cache
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfo.cs
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CoreCompileInputs.cache
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.dll
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.pdb
+C:\Users\Fruin\Desktop\gsbClientLourd-master\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.genruntimeconfig.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.exe
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.deps.json
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.json
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.dev.json
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.pdb
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.pdb
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.AssemblyReference.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Accueil.resources
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdirecteur.resources
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCVisiteur.resources
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.menu.resources
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Properties.Resources.resources
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.GenerateResource.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfoInputs.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfo.cs
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CoreCompileInputs.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.dll
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.pdb
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.genruntimeconfig.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdrh.resources
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmMesInformations.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.exe
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.deps.json
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.json
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.dev.json
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.pdb
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.pdb
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csprojAssemblyReference.cache
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Accueil.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdirecteur.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdrh.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCVisiteur.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.menu.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmMesInformations.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Properties.Resources.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.GenerateResource.cache
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfoInputs.cache
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfo.cs
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CoreCompileInputs.cache
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CopyComplete
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.pdb
+C:\Users\cleme\Desktop\GsbVersionGitHub\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.genruntimeconfig.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmAjoutEvaluation.resources
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmInfoRegion.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.AssemblyReference.cache
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Accueil.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmAjoutEvaluation.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdirecteur.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdrh.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCVisiteur.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmInfoRegion.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.menu.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmMesInformations.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Properties.Resources.resources
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.GenerateResource.cache
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfoInputs.cache
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfo.cs
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CoreCompileInputs.cache
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.pdb
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.exe
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.deps.json
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.json
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.dev.json
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.pdb
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.pdb
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CopyComplete
+C:\Users\cleme\Desktop\GsbVersionGitHub\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.genruntimeconfig.cache
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CopyComplete
+E:\Document\Cours\AP\TP2\gsbClientLourd\Projet C#2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll.config
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.exe
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.deps.json
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.json
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.dev.json
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.pdb
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.pdb
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll.config
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.AssemblyReference.cache
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Accueil.resources
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmAjoutEvaluation.resources
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdirecteur.resources
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdrh.resources
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCVisiteur.resources
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmInfoRegion.resources
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Mdirecteur.resources
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.menu.resources
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmMesInformations.resources
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmMvisiteur.resources
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Properties.Resources.resources
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmRegion.resources
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmSecteur.resources
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.GenerateResource.cache
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfoInputs.cache
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfo.cs
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CoreCompileInputs.cache
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CopyComplete
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.dll
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.pdb
+E:\Document\Cours\AP\TP2\GsbC#\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.genruntimeconfig.cache
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.exe
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.deps.json
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.json
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.dev.json
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.dll
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.pdb
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.pdb
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll.config
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.AssemblyReference.cache
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Accueil.resources
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmAjoutEvaluation.resources
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdirecteur.resources
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdrh.resources
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCVisiteur.resources
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmInfoRegion.resources
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Mdirecteur.resources
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.menu.resources
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmMesInformations.resources
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmMvisiteur.resources
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Properties.Resources.resources
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmRegion.resources
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmSecteur.resources
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.GenerateResource.cache
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfoInputs.cache
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfo.cs
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CoreCompileInputs.cache
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CopyComplete
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.dll
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.pdb
+C:\Users\cleme\Desktop\GSBgit\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.genruntimeconfig.cache
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.AssemblyReference.cache
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Accueil.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmAjoutEvaluation.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdirecteur.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdrh.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCVisiteur.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Form1.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmInfoRegion.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Mdirecteur.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.menu.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmMesInformations.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmMvisiteur.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Properties.Resources.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmRegion.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmSecteur.resources
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.GenerateResource.cache
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfoInputs.cache
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfo.cs
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CoreCompileInputs.cache
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.pdb
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.exe
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.deps.json
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.json
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.dev.json
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.pdb
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.pdb
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll.config
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CopyComplete
+E:\Document\Cours\AP\TP2\GsbC#v2\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.genruntimeconfig.cache
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.exe
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.deps.json
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.json
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.dev.json
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.pdb
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.pdb
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll.config
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.AssemblyReference.cache
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Accueil.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmAjoutEvaluation.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdirecteur.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdrh.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCVisiteur.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Form1.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmInfoRegion.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Mdirecteur.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.menu.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmMesInformations.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmMvisiteur.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Properties.Resources.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmRegion.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmSecteur.resources
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.GenerateResource.cache
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfoInputs.cache
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfo.cs
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CoreCompileInputs.cache
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CopyComplete
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.dll
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.pdb
+E:\Document\Cours\AP\TP2\gsbV3\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.genruntimeconfig.cache
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.exe
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.deps.json
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.json
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.runtimeconfig.dev.json
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.dll
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\GSB.pdb
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.pdb
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\bin\Debug\netcoreapp3.1\MesClasses.dll.config
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.AssemblyReference.cache
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Accueil.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmAjoutEvaluation.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdirecteur.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCdrh.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmCVisiteur.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Form1.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmInfoRegion.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Mdirecteur.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.menu.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmMesInformations.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmMvisiteur.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.Properties.Resources.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmRegion.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.frmSecteur.resources
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.GenerateResource.cache
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfoInputs.cache
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.AssemblyInfo.cs
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CoreCompileInputs.cache
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.csproj.CopyComplete
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.dll
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.pdb
+E:\Document\Cours\AP\TP2\gsbV3.0\Projet C#2\GSB\GSB\obj\Debug\netcoreapp3.1\GSB.genruntimeconfig.cache

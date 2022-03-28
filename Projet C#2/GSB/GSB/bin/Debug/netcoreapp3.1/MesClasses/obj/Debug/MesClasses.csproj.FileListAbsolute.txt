@@ -1,0 +1,2 @@
+C:\Users\cleme\Desktop\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csprojAssemblyReference.cache
+C:\Users\cleme\Desktop\Projet C#2\GSB\MesClasses\obj\Debug\MesClasses.csproj.CoreCompileInputs.cache
