@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AjoutEvaluation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cdirecteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CVisiteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="infoRegion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="informationsDirecteurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="informationsSecteurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="informationsVisiteurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mDirecteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cregion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Csecteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mVisiteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
