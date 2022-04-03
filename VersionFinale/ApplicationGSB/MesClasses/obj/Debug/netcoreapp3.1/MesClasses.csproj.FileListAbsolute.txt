@@ -1,0 +1,10 @@
+E:\Document\Cours\AP\TP2.1\ApplicationGSB\MesClasses\bin\Debug\netcoreapp3.1\MesClasses.deps.json
+E:\Document\Cours\AP\TP2.1\ApplicationGSB\MesClasses\bin\Debug\netcoreapp3.1\MesClasses.dll
+E:\Document\Cours\AP\TP2.1\ApplicationGSB\MesClasses\bin\Debug\netcoreapp3.1\MesClasses.pdb
+E:\Document\Cours\AP\TP2.1\ApplicationGSB\MesClasses\obj\Debug\netcoreapp3.1\MesClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\Cours\AP\TP2.1\ApplicationGSB\MesClasses\obj\Debug\netcoreapp3.1\MesClasses.AssemblyInfoInputs.cache
+E:\Document\Cours\AP\TP2.1\ApplicationGSB\MesClasses\obj\Debug\netcoreapp3.1\MesClasses.AssemblyInfo.cs
+E:\Document\Cours\AP\TP2.1\ApplicationGSB\MesClasses\obj\Debug\netcoreapp3.1\MesClasses.csproj.CoreCompileInputs.cache
+E:\Document\Cours\AP\TP2.1\ApplicationGSB\MesClasses\obj\Debug\netcoreapp3.1\MesClasses.dll
+E:\Document\Cours\AP\TP2.1\ApplicationGSB\MesClasses\obj\Debug\netcoreapp3.1\MesClasses.pdb
+E:\Document\Cours\AP\TP2.1\ApplicationGSB\MesClasses\obj\Debug\netcoreapp3.1\MesClasses.csproj.AssemblyReference.cache
